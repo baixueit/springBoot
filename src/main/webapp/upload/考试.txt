@@ -1,0 +1,71 @@
+1)Integer m=128 n=128 j=127 k=127;请说出下面的结果,并阐述为什么?
+		m==n
+		m.equals(n)
+		j==k
+		j.equals(k)
+2) StringBuilder 和 StringBuffer区别?
+3)文件上传需要注意什么?
+4)String类能不能继承?
+5)struts2中的前置控制器是?如何配置?
+6)oracle中select语句的执行顺序?
+7)什么是sql注入?
+8)jdbc中Statement 和 PreparedStatement 的区别?
+9)什么是ajax?
+10)struts2中值栈的内存结构
+11)java中的HashMap与HashTable的区别?
+12)请写出java中的冒泡排序的代码?
+13)数据库事务的四个特性是什么?
+14)如何将java对象转为json格式的字符串?如何将json格式的字符串转为相应js对象|数组?
+15)mybatis中的取值方式几种,都是什么,如何使用?
+16)简述Spring中IOC?
+17)在main(String[] args)方法内是否可以调用一个非静态方法？
+18)简述override与overload的区别?
+19)sleep() 和 wait() 有什么区别? 
+20)spring框架默认创建对象的次数?如何控制创建次数
+21)Java 中的final关键字有哪些用法？
+22)谈谈你对spring框架的理解
+23)Error 和Exception 有什么区别?
+24)ArrayList和LinkedList有什么区别 ？
+25)spring框架中有几种产生代理的方式?默认使用的是那种方式?他们的区别是什么?如何切换这两种方式?
+26)Spring框架中什么是声明事务 什么是编程式事务?
+27)面向对象的特征有哪些方面；(Core Java)
+28)”==”与equals有何区别？
+29)abstract class和interface有什么区别?
+30)多线程有几种实现方法,都是什么?
+31)简述spring框架的创建对象的声明周期?
+32)简述数据的隔离级别有哪些?都是什么
+33)同一个文件里是否可以有两个public类？
+34)谈谈final, finally, finalize的区别。
+35)数组有没有length()这个方法? String有没有length()这个方法？
+36)说一说Servlet生命周期
+37)get提交和post提交有何区别
+38)JSP有哪些内置对象，作用是什么？
+39)servlet 中的条状方式有几种?分别是什么?
+40)spring 框架的常用注解有哪些?都有什么作用?
+41)构造器Constructor是否可被override?
+42)字节流与字符流的区别
+43)servlet是不是线程安全的,struts2框架是不是线程安全的,值栈是不是线程安全的?
+44)常见的动态sql标签有哪些?简述其作用?
+45)对于javascript中 "==" 与 "===" 有什么区别?
+46)SpringMVC 处理文件上传需要注意什么?
+47)SpringMVC 如何响应json类型的数据有几种方式,分别是什么?
+48)SpringMVC 的控制器是单例还是多例的,线程是否安全?如何将其设置为多例
+49)SpringMVC 与Spring框架的关系是什么?整合是应该注意什么?
+50)SpringMVC 中@responseBody注解的作用,底层默认使用的是那种转换json的策略,如何修改为FastJson转换?
+51)SOAP架构的WebService中三要素分别是什么?
+52)什么是webservice?webservice主要作用是什么?
+53)如何解决POST请求中文乱码问题，GET的又如何处理呢？
+54)springmvc 与 struts2 与 servlet的区别?
+55)如何使用jquery发起一个异步请求,至少说出三种?
+56)webservice有几种形式?分别是什么?区别是什么?
+57)Strut2和Springmvc中如何获取request,response对象
+58)Sprinmvc框架中如何解决静态资源拦截问题?
+59)如何解决springmvc在提交POST请求的中文乱码问题?
+60)Spring中的注入方式有几种?分别是什么?
+61)启动一个线程是调用run()还是start()方法？
+62)反射创建对象的两种形式?
+63)XML解析方式有几种?区别是什么?
+64)spring框架中bean标签的init-method,destory-method两个属性的作用是?
+65)spring框架如何创建复杂对象的实例?(如 接口,日历)
+
+
