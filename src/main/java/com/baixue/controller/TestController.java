@@ -74,5 +74,10 @@ public class TestController {
         return "success";
     }
 
+    @RequestMapping("/testGit")
+    public String testGit(){
+        System.out.println("git test");
+        return "index";
+    }
 
 }
